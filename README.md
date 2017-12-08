@@ -5,6 +5,7 @@ moire-test
 
 ![sketch_20171204a/sketch_20171204a.png](sketch_20171204a/sketch_20171204a.png)
 
+![sketch_20171208a/sketch_20171204a.png](sketch_20171208a/sketch_20171208a.png)
 
 Copyright and license
 ----
