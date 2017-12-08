@@ -40,7 +40,7 @@ void drawMoire()
   
   background(#000000);
   stroke(#ffffff);
-  strokeWeight(1);
+  strokeWeight(2);
   noFill();
 
   for (int y = 0; y < height; y += 16) {
@@ -57,10 +57,10 @@ void drawMoire()
       }
       else {
         if (r < 0.5) {
-          line(x, y, x + 16, y + 12);
+          line(x, y, x + 16, y + 10);
         }
         else {
-          line(x, y + 12, x + 16, y);
+          line(x, y + 10, x + 16, y);
         }
       }
     }
